@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\RYZEN\\Desktop\\c#\\github\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1F7C6D9-E091-4B9E-81ED-1886C9FDEF7E}|github\\github.csproj|c:\\users\\ryzen\\desktop\\c#\\github\\github\\holaaaaaaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F7C6D9-E091-4B9E-81ED-1886C9FDEF7E}|github\\github.csproj|solutionrelative:github\\holaaaaaaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1F7C6D9-E091-4B9E-81ED-1886C9FDEF7E}|github\\github.csproj|c:\\users\\ryzen\\desktop\\c#\\github\\github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1F7C6D9-E091-4B9E-81ED-1886C9FDEF7E}|github\\github.csproj|solutionrelative:github\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "holaaaaaaaaaaaa.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\Desktop\\c#\\github\\github\\holaaaaaaaaaaaa.cs",
+              "RelativeDocumentMoniker": "github\\holaaaaaaaaaaaa.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\Desktop\\c#\\github\\github\\holaaaaaaaaaaaa.cs",
+              "RelativeToolTip": "github\\holaaaaaaaaaaaa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:55:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\RYZEN\\Desktop\\c#\\github\\github\\Form1.cs",
               "RelativeDocumentMoniker": "github\\Form1.cs",
